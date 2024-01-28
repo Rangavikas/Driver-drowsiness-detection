@@ -16,3 +16,6 @@ The requirement for this Python project is a web cam through which we will captu
 **#conclusion:**
 
 An approach for putting into practice a quick and reliable driver sleepiness detection system has been proposed in this research. This was accomplished using the two libraries OpenCV and dlib as well as the mathematical notion known as EAR. On numerous subjects, the technique was successfully tested, and it was found to be successful
+
+
+![WhatsApp Image 2024-01-28 at 21 13 28_c735eeae](https://github.com/Rangavikas/Driver-drowsiness-detection/assets/110588073/4da6a4dc-6840-48d2-a640-ecaa94324519)
