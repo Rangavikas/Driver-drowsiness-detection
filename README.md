@@ -13,3 +13,6 @@ The requirement for this Python project is a web cam through which we will captu
 3.  Scipy – pip install scipy (To calculate distance between eye landmarks).
 4. Pygame – pip install pygame (To play alarm sound). 5. Dlib - pip install dlib.
 
+**#conclusion:**
+
+An approach for putting into practice a quick and reliable driver sleepiness detection system has been proposed in this research. This was accomplished using the two libraries OpenCV and dlib as well as the mathematical notion known as EAR. On numerous subjects, the technique was successfully tested, and it was found to be successful
